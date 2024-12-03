@@ -1,0 +1,8 @@
+name: Regionfy
+version: '${project.version}'
+main: me.bubbles.regionfy.Regionfy
+api-version: '1.21'
+commands:
+  bypass:
+    usage: /<command>
+    aliases: [ rgbypass ]
